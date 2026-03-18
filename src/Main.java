@@ -13,6 +13,6 @@ public class Main {
             System.out.println(number);
         }
 
-        System.out.println("입니다!");
+        System.out.println("입니다.");
     }
 }
