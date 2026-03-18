@@ -14,7 +14,7 @@ public class Main {
         for (int number : randomNumbers) {
             System.out.println(number);
         }
-        System.out.println("입니다.");
+        System.out.println("입니다!");
 
     }
 }
