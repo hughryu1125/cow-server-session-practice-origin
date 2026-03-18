@@ -8,11 +8,8 @@ public class Main {
         RandomNumberCreator randomNumberCreator = new RandomNumberCreator();
         List<Integer> randomNumbers = randomNumberCreator.createRandomNumbers();
 
-        System.out.println("이번 회차 로또 번호는");
         for (int number : randomNumbers) {
             System.out.println(number);
         }
-
-        System.out.println("입니다.");
     }
 }
